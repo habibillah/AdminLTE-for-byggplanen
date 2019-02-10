@@ -261,7 +261,9 @@ a:focus {
   font-family: fontAwesome;
 }
 .main-header .sidebar-toggle:before {
-  content: "\f0c9";
+  content: '\f104';
+  font-size: 20px;
+  font-weight: bold;
 }
 .main-header .sidebar-toggle:hover {
   color: #fff;

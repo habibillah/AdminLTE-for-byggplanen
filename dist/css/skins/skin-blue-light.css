@@ -79,7 +79,6 @@
 }
 .skin-blue-light .sidebar-menu > li > a {
   border-left: 3px solid transparent;
-  font-weight: 600;
 }
 .skin-blue-light .sidebar-menu > li:hover > a,
 .skin-blue-light .sidebar-menu > li.active > a {
@@ -88,9 +87,6 @@
 }
 .skin-blue-light .sidebar-menu > li.active {
   border-left-color: #50a1ff;
-}
-.skin-blue-light .sidebar-menu > li.active > a {
-  font-weight: 600;
 }
 .skin-blue-light .sidebar-menu > li > .treeview-menu {
   background: #f4f4f5;
@@ -107,9 +103,6 @@
 .skin-blue-light .sidebar-menu .treeview-menu > li.active > a,
 .skin-blue-light .sidebar-menu .treeview-menu > li > a:hover {
   color: #000000;
-}
-.skin-blue-light .sidebar-menu .treeview-menu > li.active > a {
-  font-weight: 600;
 }
 .skin-blue-light .sidebar-form {
   border-radius: 3px;
